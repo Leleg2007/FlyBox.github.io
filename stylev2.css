@@ -9,7 +9,8 @@ body {
 }
 
 header {
-    background: linear-gradient(135deg, #0052D4, #4364F7);
+    background: url("cour_cabrini.jpg") center;
+    /* linear-gradient(135deg, #0052D4, #4364F7) */
     color: white;
     padding: 1.5rem 0;
     text-align: center;
